@@ -4,6 +4,10 @@
 <a href="https://www.instagram.com/moon_________00/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="https://mail.google.com" target="_blank"><img src="https://img.shields.io/badge/mth217111@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/></a>
 
+### Skills
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/></a>
+<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/></a>
+
 ### Stats
 ![mth2171's Github stats](https://github-readme-stats.vercel.app/api?username=mth2171&show_icons=true&theme=radical)
 
